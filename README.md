@@ -26,6 +26,7 @@ Before using the AI Assistant, make sure you have the following prerequisites in
 ###Installation
 - Clone this repository to your local machine
 - Set up your OpenAI API key
+- Install the required packages from the `requirements.txt` file
 - Run the application on Streamlit
 
 ##Usage
