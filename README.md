@@ -2,12 +2,10 @@
 
 In this series, we are developing an AI assistant using Streamlit and LangChain, designed to help you with your data science projects. This AI assistant will streamline the entire process of a data science project, including EDA, model selection and prediction and more.
 
+--- 
+
 This series is split in three parts:
-
-EDA	Model Selection and Prediction	App Enhancement and Chatbox
-Introduction to Streamlit, LLMs and Langchain agents	Langchain Chains, Tools and More Agents	Memory, Indexes and Deployment
-
-**EDA - PART 1** 
+**EDA - PART 1** </br>
 Introduction to Streamlit, LLMs and Langchain agents.
 
 **Model Selection and Prediction - PART 2** 
