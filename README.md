@@ -1,15 +1,21 @@
-# AI Assistant for Data Science 🤖
+# Build your own AI assistant 🤖
 
-AI Assistant for Data Science is a Streamlit-based application that makes use of the power of OpenAI's GPT-3 for assisting with data science tasks. 
+In this series, we are developing an AI assistant using Streamlit and LangChain, designed to help you with your data science projects. This AI assistant will streamline the entire process of a data science project, including EDA, model selection and prediction and more.
+
+This series is split in three parts:
+
+EDA	Model Selection and Prediction	App Enhancement and Chatbox
+Introduction to Streamlit, LLMs and Langchain agents	Langchain Chains, Tools and More Agents	Memory, Indexes and Deployment
 
 **EDA - PART 1** 
-This tool simplifies the process of exploring and analysing data, making it easier for data scientists and analysts to gain insights from their datasets.
+Introduction to Streamlit, LLMs and Langchain agents.
 
-## Features
+**Model Selection and Prediction - PART 2** 
+Langchain Chains, Tools and More Agents.
 
-- Upload and explore your dataset in a user-friendly interface.
-- Perform Exploratory Data Analysis (EDA) tasks with the help of AI.
-- Get answers to data-related questions and insights.
+**App Enhancement and Chatbox - PART 3** 
+Memory, Indexes and Further App Enhancement.
+
 
 ## Getting Started
 
@@ -23,18 +29,17 @@ Before using the AI Assistant, make sure you have the following prerequisites in
 - OpenAI's API Key (replace `apikey` in the script with your actual API key)
 - dotenv (for managing environment variables)
 
-###Installation
+### Installation
 - Clone this repository to your local machine
 - Set up your OpenAI API key
 - Install the required packages from the `requirements.txt` file
 - Run the application on Streamlit
 
-##Usage
+## Usage
 - Run the application using the instructions provided in the Installation section.
-- Click the "Let's get started" button and upload your CSV file.
-- Explore your data, perform EDA tasks, and ask data-related questions with the AI Assistant.
+- Click the "Let's get started" button.
 
-##Contributing
+## Contributing
 We welcome contributions to improve this AI Assistant. If you would like to contribute, please follow these guidelines:
 
 - Fork the repository.
@@ -44,7 +49,7 @@ We welcome contributions to improve this AI Assistant. If you would like to cont
 - Submit a pull request.
 
 
-If you have questions, suggestions, or feedback, please feel free to contact me 👱🏻‍♀️.
+If you have questions, suggestions, or feedback, please feel free to contact me 👱🏻‍♀️
 
 Enjoy using your AI Assistant for Data Science! 
 
