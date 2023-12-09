@@ -4,7 +4,7 @@ In this series, we are developing an AI assistant using Streamlit and LangChain,
 
 --- 
 
-**EDA - PART 1** </br>
+**Exploratory Data Analysis - PART 1** </br>
 Introduction to Streamlit, LLMs and Langchain agents.
 
 **Model Selection and Prediction - PART 2** </br>
