@@ -4,7 +4,6 @@ In this series, we are developing an AI assistant using Streamlit and LangChain,
 
 --- 
 
-This series is split in three parts:
 **EDA - PART 1** </br>
 Introduction to Streamlit, LLMs and Langchain agents.
 
