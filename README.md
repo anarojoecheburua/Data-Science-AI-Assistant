@@ -1,6 +1,6 @@
 # Build your own AI assistant 🤖
 
-In this series, we are developing an AI assistant using Streamlit and LangChain, designed to help you with your data science projects. This AI assistant will streamline the entire process of a data science project, including EDA, model selection and prediction and more.
+In this series, we are developing an AI assistant using Streamlit and LangChain, designed to help you with your data science projects. This AI assistant will streamline the entire process of a data science project, including EDA, model selection and prediction and even a chatbox!
 
 --- 
 
@@ -8,12 +8,13 @@ This series is split in three parts:
 **EDA - PART 1** </br>
 Introduction to Streamlit, LLMs and Langchain agents.
 
-**Model Selection and Prediction - PART 2** 
+**Model Selection and Prediction - PART 2** </br>
 Langchain Chains, Tools and More Agents.
 
-**App Enhancement and Chatbox - PART 3** 
+**App Enhancement and Chatbox - PART 3** </br>
 Memory, Indexes and Further App Enhancement.
 
+---
 
 ## Getting Started
 
