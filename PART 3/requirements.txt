@@ -1,1 +1,11 @@
-
+streamlit
+streamlit_chat
+langchain
+openai
+sentence_transformers
+unstructured
+unstructured_inference
+libmagic
+poppler
+tesseract
+pinecone-client
